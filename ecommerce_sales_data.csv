@@ -1,0 +1,101 @@
+order_id,customer_id,customer_name,customer_age,customer_gender,customer_city,customer_state,product_id,product_name,category,sub_category,brand,unit_price,quantity,discount_percent,order_date,order_status,payment_method,shipping_days,rating
+ORD00001,CUST001,Aarav Sharma,28,Male,Mumbai,Maharashtra,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,2,10,2024-01-03,Delivered,UPI,3,5
+ORD00002,CUST002,Priya Patel,34,Female,Delhi,Delhi,PROD202,Running Shoes,Fashion,Footwear,Nike,4500,1,5,2024-01-04,Delivered,Credit Card,4,4
+ORD00003,CUST003,Rohit Verma,22,Male,Bengaluru,Karnataka,PROD303,Python Programming Book,Books,Education,Pearson,599,3,0,2024-01-05,Delivered,Debit Card,5,5
+ORD00004,CUST004,Sneha Iyer,29,Female,Chennai,Tamil Nadu,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,2,15,2024-01-06,Delivered,UPI,3,4
+ORD00005,CUST005,Karan Mehta,45,Male,Hyderabad,Telangana,PROD505,Office Chair,Furniture,Seating,Godrej,8999,1,20,2024-01-07,Delivered,EMI,7,4
+ORD00006,CUST006,Anjali Singh,31,Female,Pune,Maharashtra,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,1,10,2024-01-08,Delivered,Credit Card,3,3
+ORD00007,CUST007,Vikram Nair,26,Male,Kolkata,West Bengal,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,1,8,2024-01-09,Returned,UPI,4,2
+ORD00008,CUST008,Deepika Rao,38,Female,Ahmedabad,Gujarat,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,2,0,2024-01-10,Delivered,Debit Card,4,5
+ORD00009,CUST009,Amit Joshi,33,Male,Jaipur,Rajasthan,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,12,2024-01-11,Delivered,EMI,6,4
+ORD00010,CUST010,Nisha Gupta,27,Female,Lucknow,Uttar Pradesh,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,3,5,2024-01-12,Delivered,UPI,3,5
+ORD00011,CUST001,Aarav Sharma,28,Male,Mumbai,Maharashtra,PROD202,Running Shoes,Fashion,Footwear,Nike,4500,1,0,2024-01-15,Cancelled,UPI,0,0
+ORD00012,CUST011,Rahul Das,41,Male,Bhopal,Madhya Pradesh,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,2,5,2024-01-16,Delivered,Credit Card,3,4
+ORD00013,CUST012,Kavya Menon,24,Female,Kochi,Kerala,PROD1111,Kurta Set,Fashion,Ethnic Wear,Fabindia,1799,1,10,2024-01-17,Delivered,UPI,4,5
+ORD00014,CUST013,Suresh Pillai,52,Male,Coimbatore,Tamil Nadu,PROD505,Office Chair,Furniture,Seating,Godrej,8999,2,25,2024-01-18,Delivered,EMI,7,5
+ORD00015,CUST014,Pooja Sharma,36,Female,Nagpur,Maharashtra,PROD303,Python Programming Book,Books,Education,Pearson,599,1,0,2024-01-19,Delivered,Debit Card,5,4
+ORD00016,CUST015,Arjun Reddy,29,Male,Visakhapatnam,Andhra Pradesh,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,1,0,2024-01-20,Delivered,UPI,4,4
+ORD00017,CUST016,Meera Krishnan,44,Female,Mysuru,Karnataka,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,4,15,2024-01-21,Delivered,Credit Card,3,4
+ORD00018,CUST017,Tarun Bose,23,Male,Patna,Bihar,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,8,2024-01-22,Delivered,Debit Card,6,3
+ORD00019,CUST018,Ritu Agarwal,30,Female,Chandigarh,Punjab,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,1,0,2024-01-23,Returned,UPI,5,2
+ORD00020,CUST019,Manish Tiwari,37,Male,Indore,Madhya Pradesh,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,12,2024-01-24,Delivered,EMI,4,5
+ORD00021,CUST020,Shweta Jain,25,Female,Surat,Gujarat,PROD1313,Denim Jacket,Fashion,Casual Wear,Levis,2999,1,20,2024-01-25,Delivered,Credit Card,4,4
+ORD00022,CUST003,Rohit Verma,22,Male,Bengaluru,Karnataka,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,5,2024-02-01,Delivered,UPI,4,5
+ORD00023,CUST021,Pallavi Nair,33,Female,Thiruvananthapuram,Kerala,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,2,0,2024-02-02,Delivered,Debit Card,3,4
+ORD00024,CUST022,Gaurav Mishra,47,Male,Varanasi,Uttar Pradesh,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,1,5,2024-02-03,Delivered,EMI,4,3
+ORD00025,CUST023,Divya Kapoor,28,Female,Faridabad,Haryana,PROD1111,Kurta Set,Fashion,Ethnic Wear,Fabindia,1799,2,10,2024-02-04,Delivered,UPI,4,5
+ORD00026,CUST024,Nikhil Sharma,31,Male,Gurgaon,Haryana,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,1,0,2024-02-05,Delivered,Credit Card,3,5
+ORD00027,CUST025,Ananya Roy,26,Female,Kolkata,West Bengal,PROD505,Office Chair,Furniture,Seating,Godrej,8999,1,15,2024-02-06,Delivered,EMI,7,4
+ORD00028,CUST026,Siddharth Rao,39,Male,Pune,Maharashtra,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,10,2024-02-07,Delivered,EMI,6,5
+ORD00029,CUST027,Harini Subramaniam,21,Female,Chennai,Tamil Nadu,PROD303,Python Programming Book,Books,Education,Pearson,599,2,0,2024-02-08,Delivered,UPI,5,5
+ORD00030,CUST028,Vivek Pandey,43,Male,Allahabad,Uttar Pradesh,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,1,8,2024-02-09,Returned,Debit Card,4,2
+ORD00031,CUST029,Ishaan Malik,25,Male,Amritsar,Punjab,PROD1313,Denim Jacket,Fashion,Casual Wear,Levis,2999,1,0,2024-02-10,Delivered,UPI,4,4
+ORD00032,CUST030,Simran Kaur,32,Female,Ludhiana,Punjab,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,3,15,2024-02-11,Delivered,Credit Card,3,5
+ORD00033,CUST031,Akash Tomar,27,Male,Meerut,Uttar Pradesh,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,2,12,2024-02-12,Delivered,EMI,4,4
+ORD00034,CUST032,Preeti Soni,34,Female,Jodhpur,Rajasthan,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,2,5,2024-02-13,Delivered,UPI,4,5
+ORD00035,CUST033,Rajeev Kumar,50,Male,Patna,Bihar,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,1,0,2024-02-14,Cancelled,Debit Card,0,0
+ORD00036,CUST034,Neha Bansal,29,Female,Noida,Uttar Pradesh,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,4,5,2024-02-15,Delivered,UPI,3,4
+ORD00037,CUST035,Alok Singh,36,Male,Ranchi,Jharkhand,PROD505,Office Chair,Furniture,Seating,Godrej,8999,1,20,2024-02-16,Delivered,EMI,7,5
+ORD00038,CUST036,Swati Mishra,42,Female,Bhopal,Madhya Pradesh,PROD1111,Kurta Set,Fashion,Ethnic Wear,Fabindia,1799,1,10,2024-02-17,Delivered,Credit Card,4,3
+ORD00039,CUST037,Dinesh Patil,24,Male,Nashik,Maharashtra,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,1,0,2024-02-18,Delivered,UPI,3,4
+ORD00040,CUST038,Madhuri Desai,38,Female,Vadodara,Gujarat,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,12,2024-02-19,Delivered,EMI,6,4
+ORD00041,CUST039,Sanjay Kulkarni,46,Male,Nagpur,Maharashtra,PROD303,Python Programming Book,Books,Education,Pearson,599,3,0,2024-02-20,Delivered,Debit Card,5,5
+ORD00042,CUST040,Ankita Jha,23,Female,Dhanbad,Jharkhand,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,8,2024-02-21,Delivered,UPI,4,4
+ORD00043,CUST041,Prashant Yadav,31,Male,Agra,Uttar Pradesh,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,2,10,2024-03-01,Delivered,Credit Card,4,4
+ORD00044,CUST042,Roshni Ghosh,27,Female,Kolkata,West Bengal,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,2,15,2024-03-02,Delivered,UPI,3,5
+ORD00045,CUST043,Hemant Shukla,40,Male,Lucknow,Uttar Pradesh,PROD1313,Denim Jacket,Fashion,Casual Wear,Levis,2999,1,5,2024-03-03,Delivered,EMI,4,3
+ORD00046,CUST044,Farida Khan,35,Female,Hyderabad,Telangana,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,2,5,2024-03-04,Delivered,Debit Card,3,4
+ORD00047,CUST045,Kunal Shah,29,Male,Ahmedabad,Gujarat,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,3,0,2024-03-05,Delivered,UPI,4,5
+ORD00048,CUST046,Tanvi Mehta,22,Female,Mumbai,Maharashtra,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,2,5,2024-03-06,Delivered,Credit Card,3,5
+ORD00049,CUST047,Abhijit Sen,44,Male,Pune,Maharashtra,PROD808,Air Purifier,Appliances,Home,Philips,7499,2,15,2024-03-07,Delivered,EMI,6,5
+ORD00050,CUST048,Shruti Nanda,30,Female,Delhi,Delhi,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,1,10,2024-03-08,Returned,UPI,4,2
+ORD00051,CUST049,Mohit Verma,26,Male,Jaipur,Rajasthan,PROD505,Office Chair,Furniture,Seating,Godrej,8999,1,20,2024-03-09,Delivered,EMI,7,4
+ORD00052,CUST050,Richa Agarwal,33,Female,Bengaluru,Karnataka,PROD1111,Kurta Set,Fashion,Ethnic Wear,Fabindia,1799,2,10,2024-03-10,Delivered,Credit Card,4,5
+ORD00053,CUST051,Sunil Pandey,48,Male,Varanasi,Uttar Pradesh,PROD303,Python Programming Book,Books,Education,Pearson,599,4,0,2024-03-11,Delivered,Debit Card,5,5
+ORD00054,CUST052,Geeta Sharma,37,Female,Chennai,Tamil Nadu,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,12,2024-03-12,Delivered,UPI,4,4
+ORD00055,CUST053,Piyush Bansal,25,Male,Chandigarh,Punjab,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,1,0,2024-03-13,Delivered,Credit Card,4,5
+ORD00056,CUST054,Sarita Mishra,41,Female,Indore,Madhya Pradesh,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,3,15,2024-03-14,Delivered,UPI,3,4
+ORD00057,CUST055,Aditya Nair,28,Male,Kochi,Kerala,PROD1313,Denim Jacket,Fashion,Casual Wear,Levis,2999,2,20,2024-03-15,Delivered,EMI,4,4
+ORD00058,CUST056,Poornima Rao,34,Female,Visakhapatnam,Andhra Pradesh,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,8,2024-03-16,Cancelled,Debit Card,0,0
+ORD00059,CUST057,Bhushan Desai,53,Male,Surat,Gujarat,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,3,5,2024-03-17,Delivered,Credit Card,3,4
+ORD00060,CUST058,Yogita Singh,26,Female,Ranchi,Jharkhand,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,1,0,2024-03-18,Delivered,UPI,4,5
+ORD00061,CUST059,Devraj Pillai,39,Male,Thiruvananthapuram,Kerala,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,2,5,2024-03-19,Delivered,EMI,3,3
+ORD00062,CUST060,Aparna Krishnan,31,Female,Mysuru,Karnataka,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,1,0,2024-03-20,Delivered,UPI,3,4
+ORD00063,CUST061,Nitin Sharma,43,Male,Gurgaon,Haryana,PROD505,Office Chair,Furniture,Seating,Godrej,8999,2,25,2024-04-01,Delivered,EMI,7,5
+ORD00064,CUST062,Ranjana Gupta,29,Female,Faridabad,Haryana,PROD1111,Kurta Set,Fashion,Ethnic Wear,Fabindia,1799,1,10,2024-04-02,Delivered,Credit Card,4,4
+ORD00065,CUST063,Sachin Tiwari,35,Male,Allahabad,Uttar Pradesh,PROD303,Python Programming Book,Books,Education,Pearson,599,2,0,2024-04-03,Delivered,UPI,5,5
+ORD00066,CUST064,Mona Joshi,24,Female,Pune,Maharashtra,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,12,2024-04-04,Delivered,Debit Card,4,4
+ORD00067,CUST065,Tarun Kapoor,38,Male,Mumbai,Maharashtra,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,1,8,2024-04-05,Returned,UPI,5,1
+ORD00068,CUST066,Sonal Mehta,27,Female,Delhi,Delhi,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,4,15,2024-04-06,Delivered,Credit Card,3,5
+ORD00069,CUST067,Varun Singh,32,Male,Bengaluru,Karnataka,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,10,2024-04-07,Delivered,EMI,6,4
+ORD00070,CUST068,Kavitha Iyer,46,Female,Chennai,Tamil Nadu,PROD1313,Denim Jacket,Fashion,Casual Wear,Levis,2999,1,5,2024-04-08,Delivered,UPI,4,4
+ORD00071,CUST069,Rajendra Yadav,51,Male,Jaipur,Rajasthan,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,2,0,2024-04-09,Delivered,Debit Card,3,3
+ORD00072,CUST070,Shilpa Roy,28,Female,Kolkata,West Bengal,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,2,5,2024-04-10,Delivered,UPI,4,5
+ORD00073,CUST071,Manav Bose,22,Male,Dhanbad,Jharkhand,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,3,0,2024-04-11,Delivered,Credit Card,3,4
+ORD00074,CUST072,Lalitha Subramaniam,40,Female,Coimbatore,Tamil Nadu,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,2,10,2024-04-12,Delivered,EMI,3,5
+ORD00075,CUST073,Harsh Agarwal,30,Male,Lucknow,Uttar Pradesh,PROD505,Office Chair,Furniture,Seating,Godrej,8999,1,20,2024-04-13,Delivered,EMI,7,4
+ORD00076,CUST074,Anita Bansal,36,Female,Noida,Uttar Pradesh,PROD303,Python Programming Book,Books,Education,Pearson,599,1,0,2024-04-14,Delivered,UPI,5,5
+ORD00077,CUST075,Saurabh Dubey,44,Male,Bhopal,Madhya Pradesh,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,8,2024-04-15,Delivered,Debit Card,4,4
+ORD00078,CUST076,Namita Pillai,33,Female,Kochi,Kerala,PROD1111,Kurta Set,Fashion,Ethnic Wear,Fabindia,1799,2,15,2024-04-16,Delivered,Credit Card,4,5
+ORD00079,CUST077,Vishal Patil,27,Male,Nashik,Maharashtra,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,1,0,2024-04-17,Delivered,UPI,4,4
+ORD00080,CUST078,Madhavi Desai,39,Female,Vadodara,Gujarat,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,2,10,2024-04-18,Cancelled,Debit Card,0,0
+ORD00081,CUST079,Rohan Jha,25,Male,Patna,Bihar,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,12,2024-04-19,Delivered,EMI,6,4
+ORD00082,CUST080,Swapna Ghosh,31,Female,Kolkata,West Bengal,PROD1313,Denim Jacket,Fashion,Casual Wear,Levis,2999,1,20,2024-04-20,Delivered,UPI,4,3
+ORD00083,CUST081,Sumit Nanda,48,Male,Amritsar,Punjab,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,1,5,2024-05-01,Delivered,Credit Card,3,4
+ORD00084,CUST082,Priyanka Tiwari,26,Female,Chandigarh,Punjab,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,3,0,2024-05-02,Delivered,UPI,4,5
+ORD00085,CUST083,Ajay Kulkarni,42,Male,Nagpur,Maharashtra,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,2,5,2024-05-03,Delivered,Debit Card,3,4
+ORD00086,CUST084,Nandini Rao,35,Female,Hyderabad,Telangana,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,1,0,2024-05-04,Delivered,EMI,3,5
+ORD00087,CUST085,Kiran Verma,29,Male,Agra,Uttar Pradesh,PROD505,Office Chair,Furniture,Seating,Godrej,8999,2,25,2024-05-05,Delivered,EMI,7,5
+ORD00088,CUST086,Rashmi Singh,37,Female,Bengaluru,Karnataka,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,12,2024-05-06,Delivered,Credit Card,4,4
+ORD00089,CUST087,Girish Sharma,53,Male,Mumbai,Maharashtra,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,1,8,2024-05-07,Delivered,UPI,4,3
+ORD00090,CUST088,Bindiya Mehta,24,Female,Surat,Gujarat,PROD303,Python Programming Book,Books,Education,Pearson,599,4,0,2024-05-08,Delivered,Debit Card,5,5
+ORD00091,CUST089,Aakash Mishra,41,Male,Indore,Madhya Pradesh,PROD1111,Kurta Set,Fashion,Ethnic Wear,Fabindia,1799,1,10,2024-05-09,Delivered,UPI,4,4
+ORD00092,CUST090,Veena Iyer,28,Female,Chennai,Tamil Nadu,PROD404,Face Moisturizer,Beauty,Skincare,Lakme,349,3,15,2024-05-10,Delivered,Credit Card,3,5
+ORD00093,CUST091,Rahul Bose,46,Male,Kolkata,West Bengal,PROD808,Air Purifier,Appliances,Home,Philips,7499,1,10,2024-05-11,Returned,EMI,7,2
+ORD00094,CUST092,Sonali Kapoor,30,Female,Delhi,Delhi,PROD1313,Denim Jacket,Fashion,Casual Wear,Levis,2999,2,20,2024-05-12,Delivered,UPI,4,4
+ORD00095,CUST093,Sandeep Yadav,34,Male,Jaipur,Rajasthan,PROD1010,Laptop Stand,Electronics,Accessories,AmazonBasics,1299,2,5,2024-05-13,Delivered,Debit Card,3,4
+ORD00096,CUST094,Chitra Nair,43,Female,Kochi,Kerala,PROD707,Yoga Mat,Sports,Fitness,Decathlon,799,1,0,2024-05-14,Delivered,UPI,4,5
+ORD00097,CUST095,Dinesh Tomar,27,Male,Meerut,Uttar Pradesh,PROD909,Lipstick Set,Beauty,Makeup,Maybelline,599,2,5,2024-05-15,Delivered,Credit Card,3,4
+ORD00098,CUST096,Jayalakshmi Subramaniam,39,Female,Mysuru,Karnataka,PROD101,Wireless Headphones,Electronics,Audio,Sony,2999,1,10,2024-05-16,Delivered,EMI,3,4
+ORD00099,CUST097,Abhinav Pandey,22,Male,Varanasi,Uttar Pradesh,PROD1212,Bluetooth Speaker,Electronics,Audio,JBL,4999,1,0,2024-05-17,Delivered,UPI,4,5
+ORD00100,CUST098,Meenakshi Sharma,33,Female,Pune,Maharashtra,PROD606,Smart Watch,Electronics,Wearables,Noise,3499,2,12,2024-05-18,Delivered,Credit Card,4,4
